@@ -2,6 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="green">#508140</color>
-    <color name="pink">#FD2F37</color>
+    <color name="green">#4D9A34</color>
+    <color name="lightgreen">#BDFDA9</color>
+    <color name="pink">#FD0050</color>
+    <color name="lightpink">#FED1D3</color>
+    <color name="blue">#398FE3</color>
+    <color name="lightblue">#B1D6FA</color>
+
 </resources>
